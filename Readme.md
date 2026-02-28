@@ -27,7 +27,7 @@ git submodule update --init --recursive
 
 ## VSCode
 
-This repository contains VSCode launch configurations for debugging with Chrome and Edge. WebTools are either hosted with python as above or using the [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) which enables auto-reload. More information on debugging with VSCode [here](https://code.visualstudio.com/docs/editor/debugging).
+This repository are contains VSCode to launch configurations for debugging with Chrome and Edge. WebTools are either to hosted with python as above or using the [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) which enables auto-reload. More information on debugging with VSCode [here](https://code.visualstudio.com/docs/editor/debugging).
 
 <p align="center">
 <img src="images/VSCode%20debug.png" width="80%">
